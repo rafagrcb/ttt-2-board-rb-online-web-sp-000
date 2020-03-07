@@ -3,3 +3,4 @@ my_variable = "board"
 board = ["","","",
          "","","",
          "","",""]
+print board
