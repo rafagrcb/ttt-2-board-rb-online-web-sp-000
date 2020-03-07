@@ -1,2 +1,3 @@
 # Define the variable board below.
-puts board
+my_variable = board
+
